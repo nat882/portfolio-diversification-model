@@ -8,6 +8,14 @@ An Excel-based portfolio optimisation tool analysing 7 assets across equities, c
 
 ---
 
+## Efficient Frontier
+
+![Efficient Frontier](efficient_frontier.png)
+
+The blue cloud shows 2,000 simulated portfolios. The green diamonds mark the three key portfolios: Max Sharpe (optimal risk-adjusted return), Min Volatility (lowest possible risk), and Equal Weight (naive benchmark). The red dots show individual asset positions — AAPL and MSFT sit far to the right of the frontier, confirming that holding them individually is inefficient compared to a diversified portfolio.
+
+---
+
 ## Asset Universe
 
 | Ticker | Asset | Sector | Ann. Return | Ann. Volatility |
