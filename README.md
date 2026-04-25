@@ -2,7 +2,7 @@
 
 An Excel-based portfolio optimisation tool analysing 7 assets across equities, commodities, and fixed income. The model uses Monte Carlo simulation across 2,000 random portfolio combinations to plot the efficient frontier and identify the optimal risk-adjusted allocation using the Sharpe ratio.
 
-📥 **[Download the Excel Workbook (Google Drive)](https://docs.google.com/spreadsheets/d/1tBYJmykF5suy73mJyVaXhczshR47rtZk/edit?usp=drive_link&ouid=116838914022349988171&rtpof=true&sd=true)**
+📥 **[Download the Excel Workbook (Google Drive)](https://drive.google.com/uc?export=download&id=1tBYJmykF5suy73mJyVaXhczshR47rtZk)**
 
 > This file uses advanced Excel formulas (MMULT, TRANSPOSE, CORREL) and is best opened in Microsoft Excel. Google Sheets is not supported.
 
